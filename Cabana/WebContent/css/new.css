@@ -1,0 +1,54 @@
+.logo{
+	margin-top: 10px;
+}
+.linkCabecalho{
+	margin-top: 35px;
+}
+.fonte{
+	margin-top: 200px;
+	font-family: 'Dancing Script', cursive;
+	color: #9400D3;
+}
+.fonteMeninas{
+	font-family: 'Pangolin', cursive;
+	color: #FF00FF;
+}
+.fonteMeninos{
+	font-family: 'Pangolin', cursive;
+	color: #00BFFF;
+}
+.fonteImgFundo{
+	font-family: 'Jim Nightshade', cursive;
+	color: #FFFAFA;
+}
+.orcamento{
+	font-family: 'Dancing Script', cursive;
+	text-align: center;
+	color: #9400D3;
+}
+.linha{
+	color: #9400D3;
+	width: 600px;
+}
+.icon{
+	color: #9400D3;
+}
+.label{
+	font-family: 'Indie Flower', cursive;
+	font-size: 30px;
+}
+.iconeOrcamento{
+	font-size: 45px;
+}
+.menuFixo{
+	position: fixed;
+	z-index: 5;
+	height: 90px;
+}
+.espacamento{
+	margin-top: 400px;
+}
+.imgFundo3{
+	margin-bottom: 150px;
+	margin-top: 150px;
+}

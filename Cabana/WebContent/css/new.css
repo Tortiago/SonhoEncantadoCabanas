@@ -1,54 +1,86 @@
-.logo{
+.logo {
 	margin-top: 10px;
 }
-.linkCabecalho{
+
+.linkCabecalho {
 	margin-top: 35px;
 }
-.fonte{
+
+.fonte {
 	margin-top: 200px;
 	font-family: 'Dancing Script', cursive;
 	color: #9400D3;
 }
-.fonteMeninas{
+
+.fonteMeninas {
 	font-family: 'Pangolin', cursive;
 	color: #FF00FF;
 }
-.fonteMeninos{
+
+.fonteMeninos {
 	font-family: 'Pangolin', cursive;
 	color: #00BFFF;
 }
-.fonteImgFundo{
+
+.fonteImgFundo {
 	font-family: 'Jim Nightshade', cursive;
 	color: #FFFAFA;
 }
-.orcamento{
+
+.fonteDetalhes{
+	font-family: 'Dancing Script', cursive;
+	font-size: 20px;
+	text-align: center;
+	color: #9400D3;
+}
+
+.orcamento {
 	font-family: 'Dancing Script', cursive;
 	text-align: center;
 	color: #9400D3;
 }
-.linha{
+
+.linha {
 	color: #9400D3;
 	width: 600px;
 }
-.icon{
+
+.icon {
 	color: #9400D3;
 }
-.label{
+
+.label {
 	font-family: 'Indie Flower', cursive;
 	font-size: 30px;
 }
-.iconeOrcamento{
+
+.iconeOrcamento {
 	font-size: 45px;
 }
-.menuFixo{
+
+.iconeDetalheInformacoes{
+	font-size: 30px;
+}
+
+.menuFixo {
 	position: fixed;
 	z-index: 5;
 	height: 90px;
 }
-.espacamento{
+
+.espacamento {
 	margin-top: 400px;
 }
-.imgFundo3{
+
+.imgFundo3 {
 	margin-bottom: 150px;
 	margin-top: 150px;
 }
+.imgFundoGrid {
+       background-repeat: no-repeat;
+        background-image: url("/img/soCabana.jpg");
+        background-position: center;
+        width: 100%;
+        height: 100%;
+        
+      }

@@ -27,12 +27,41 @@
 	color: #FFFAFA;
 }
 
+.fonteDetalhesTitulo{
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px;
+	font-weight: bold;
+	color: #9400D3;
+}
+.fonteDetalhesSubTitulo{
+	font-family: 'Dancing Script', cursive;
+	font-size: 25px;
+	color: #9400D3;
+}
 .fonteDetalhes{
+	font-family: 'Dancing Script', cursive;
+	font-size: 20px;
+	color: #9400D3;
+}
+.fonteDetalhesModal2{
 	font-family: 'Dancing Script', cursive;
 	font-size: 20px;
 	text-align: center;
 	color: #9400D3;
 }
+.fonteContatoTitulo{
+	font-family: 'Dancing Script', cursive;
+	font-size: 50px;
+	text-align: center;
+	color: #00BFFF;
+	font-weight: bold;
+}
+.fonteContato{
+	font-family: 'Dancing Script', cursive;
+	font-size: 20px;
+	color: #05B5FF;
+}
+
 
 .orcamento {
 	font-family: 'Dancing Script', cursive;
@@ -58,8 +87,12 @@
 	font-size: 45px;
 }
 
-.iconeDetalheInformacoes{
+.iconeDetalhe{
 	font-size: 30px;
+}
+.iconeContato{
+	width: 20px;
+	height: 20px;
 }
 
 .menuFixo {
@@ -81,6 +114,16 @@
         background-image: url("/img/soCabana.jpg");
         background-position: center;
         width: 100%;
-        height: 100%;
-        
-      }
+        height: 100%;       
+}
+.tab{
+	color: #9400D3;
+}
+.rodape{
+	background-color: #8a2be0; 
+	text-align: center;
+	margin-top: 50px;
+}
+.iconeRodape{
+	margin-bottom: 50px;
+}

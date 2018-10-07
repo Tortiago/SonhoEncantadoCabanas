@@ -8,13 +8,14 @@ public class Contrato{
 
 	public static void main (String [] args) throws IOException{
 		
-		// enderço e nome do arquivo a ser gerado
-		FileWriter arq = new FileWriter("C:\\Users\\Tiago\\Desktop\\contratos\\Contrato.txt");
-		PrintWriter gravarArq = new PrintWriter(arq);
 		
 		Cliente cliente = new Cliente();
 		Festa festa = new Festa();
 		Itens item = new Itens();
+		
+		// enderço e nome do arquivo a ser gerado
+		FileWriter arq = new FileWriter("C:\\Users\\Tiago\\Desktop\\contratos\\"+cliente+".txt");
+		PrintWriter gravarArq = new PrintWriter(arq);
 		
 		// Solicitando informações para criar contrato
 		cliente.dadosCliente();
